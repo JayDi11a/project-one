@@ -28,9 +28,11 @@
 <body>
 
 	
+	<div class="container">
+
 		<h1> Gerald Trotman </h1>
 		
-		<img src= >
+		<img src='onthemic.jpg'>
 		
 		<h2>In 2+ sentences describe who you are and what you do.</h2>
 		<p> I am a former Apple Technician with a background in Mathematics, Mechanical, and Electrical Engineering. My passion is product design and have been a TA in product design at MIT for the past 4 years. I am currently pursuing my masters in IT with a concentration in Software Engineering. I am currently the coordinator at the Hip Hop Archives here at Harvard. </p>
