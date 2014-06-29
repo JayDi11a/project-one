@@ -3,7 +3,16 @@
 <head>
 
 	<title> Gerald Trotman </title>
+
+
+	<meta charset="utf-8">
 	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+
+	
+
 	<style>
 	
 		h1 {
@@ -57,7 +66,7 @@
 	
 	</div>
 	
-	<script src=""></script>
+	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 	
 </body>
 </html>
