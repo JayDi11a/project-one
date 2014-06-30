@@ -1,14 +1,14 @@
 A Single Web Page
 
 
-Live URL
+Live URL:
 
 
-Description
 
+Description:
 
-Details for Teaching Team
+A simple website that gives an introduction about myself and helps identify my objectives of taking this class to the instructors.
 
+Outside Code:
 
-Outside Code
-
+Bootstrap: http://getbootstrap.com
