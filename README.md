@@ -3,7 +3,7 @@ A Single Web Page
 
 Live URL:
 
-http://project-one-gerald.gopagoda.com
+http://projec35.onjumpstarter.io
 
 Description:
 
